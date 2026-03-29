@@ -27,8 +27,5 @@ The design prioritizes signal integrity and power management.
 * **EDA Tool:** KiCad 10.0.0.
 * **Voltage Domains:** Optimized power flags to ensure consistent Vcc distribution.
 * **Communication:** Synchronous I2C bus with dedicated 4.7k/10k pull-up resistors for reliable multi-slave communication.
-  
-## Repository Structure
-* **/main:** KiCad source files for the MCU and Connector sheets.
-* **/Hardware:** Bill of Materials (BOM) and manufacturing-ready Gerber files (coming soon).
-* **/Firmware:** C/C++ source code for the ATmega328P (coming soon).
+
+### Version 1.1.0
