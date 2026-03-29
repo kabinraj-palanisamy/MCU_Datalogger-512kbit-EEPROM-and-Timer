@@ -1,4 +1,4 @@
-# MCU_Datalogger-512k-EEPROM-and-Timer-
+# MCU_Datalogger 512k EEPROM and Timer
 
 ## MCU Datalogger mit Data und Memory
 A professional-grade, low-power embedded datalogging system designed for high-capacity non-volatile storage and precision timestamping
